@@ -11,3 +11,5 @@
 ## Exercise_5. Install PHP 7.4 on your local linux machine using the ppa:ondrej/php package repo, learn how to use the add-apt-repository command, submit the content of the /etc/apt/sources.list and the output of php -v command
 
 ## Exercise_6. clone the altschool-cloud-exercises project repo, setup you name and email in git's global config and submit the output of git config -l, git remote -v and git log commands
+
+## Exercise_8. create a bash script to run at every hour, saving system memory (RAM) usage to a specified file and at midnight it sends the content of the file to a specified email address, then start over for the new day
